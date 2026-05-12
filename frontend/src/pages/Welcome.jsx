@@ -89,7 +89,7 @@ export default function Welcome() {
             <h2 className={styles.cardTitle}>Secure Session</h2>
             <p className={styles.cardBody}>
               Your JWT access token is stored in sessionStorage and expires
-              after 5 minutes, minimising exposure.
+              after 5 minutes, minimizing exposure.
             </p>
           </div>
 
